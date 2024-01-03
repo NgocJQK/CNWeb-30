@@ -152,7 +152,7 @@ const Menu = ({ currentPath }) => {
                         alt="cnweb logo"
                         className="invert dark:invert-0 h-12 w-12"
                     />
-                    CNWeb-30
+                    QTCNTT
                 </NavbarBrand>
                 <div className="menu-bar">
                     {navButton.map((button, index) => {

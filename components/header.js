@@ -59,7 +59,7 @@ const Header = ({ currentPath }) => {
                     className="invert dark:invert-0 h-10 w-10"
                 />
                 <NavbarBrand href="/" className="text-black dark:text-white">
-                    CNWeb-30
+                    QTCNTT
                 </NavbarBrand>
             </div>
             <div className="nav-bar grid text-2xl text-center relative">
